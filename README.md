@@ -76,3 +76,10 @@ WHERE
 ORDER BY
 	total_videos DESC
 '''
+
+## Table 
+
+| Name | Class | Object |
+| ---- | ---- | ----|
+| Haruna | Hassan | Kabaju
+| Katangana | Jakusko | Yobe
